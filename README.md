@@ -15,7 +15,7 @@ D) Run Dart Doctor
 B) Download the Dart SDK
  
 
-3. Which command verifies the Dart installation on macOS?
+2. Which command verifies the Dart installation on macOS?
 
 A) dart --install
 B) dart --check
